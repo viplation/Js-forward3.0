@@ -45,3 +45,11 @@ https://github.com/G-Security-Team/JS-Forward/
 注：https站点需要信任证书
 
 ![image-20231115024619447](README.assets/image-20231115024619447.png)
+前置知识：https://mp.weixin.qq.com/s/1fisk5MumDcCLmSFJWaRpA
+
+个人推荐练习靶场：
+
+yakit Vulinbox
+<img width="419" alt="image-20231115030836279" src="https://github.com/viplation/Js-forward3.0/assets/56590372/f4e20ccf-2b15-4eb8-804e-9006145b354f">
+
+<img width="1595" alt="image-20231115030856243" src="https://github.com/viplation/Js-forward3.0/assets/56590372/0fc74484-72ed-48ce-a6c7-2f4610777630">
